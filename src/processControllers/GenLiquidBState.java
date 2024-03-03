@@ -1,0 +1,6 @@
+package processControllers;
+
+public enum GenLiquidBState {
+	WAITFORS2FULL,HEATING, S3EMPTYANDPIPE,POURINGFILLING,WAITFORPOWER, MIXING,POURING
+	
+}

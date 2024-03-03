@@ -1,0 +1,6 @@
+package processControllers;
+
+public enum GenLiquidAState {
+	WAITFORFULLEMPTYANDPIPE,POURINGFILLING,HEATING,WAITFORPOWER,MIXING,POURING
+	
+}
